@@ -1,1 +1,6 @@
-Frameworks/PAGAdSDK.xcframework filter=lfs diff=lfs merge=lfs -text
+Frameworks/BURelyAdSDK.xcframework/ios-arm64_armv7/BURelyAdSDK.framework/BURelyAdSDK filter=lfs diff=lfs merge=lfs -text
+Frameworks/BURelyAdSDK.xcframework/ios-arm64_i386_x86_64-simulator/BURelyAdSDK.framework/BURelyAdSDK filter=lfs diff=lfs merge=lfs -text
+Frameworks/BURelyFoundation_Global.xcframework/ios-arm64_armv7/BURelyFoundation_Global.framework/BURelyFoundation_Global filter=lfs diff=lfs merge=lfs -text
+Frameworks/BURelyFoundation_Global.xcframework/ios-arm64_i386_x86_64-simulator/BURelyFoundation_Global.framework/BURelyFoundation_Global filter=lfs diff=lfs merge=lfs -text
+Frameworks/PAGAdSDK.xcframework/ios-arm64_armv7/PAGAdSDK.framework/PAGAdSDK filter=lfs diff=lfs merge=lfs -text
+Frameworks/PAGAdSDK.xcframework/ios-arm64_i386_x86_64-simulator/PAGAdSDK.framework/PAGAdSDK filter=lfs diff=lfs merge=lfs -text
